@@ -1,6 +1,6 @@
 // CORY-X — service worker (v4.3, A1, A4) : ouverture hors ligne. Aucune donnée personnelle ici :
 // il ne met en cache que les fichiers de l'app, jamais les réponses du pont ou d'Ollama.
-const VERSION = "d564bf766489";
+const VERSION = "75e1f210a27e";
 const CACHE = "coryx-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
